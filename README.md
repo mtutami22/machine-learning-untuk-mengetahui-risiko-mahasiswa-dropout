@@ -3,13 +3,9 @@
 ## Repository Outline
 ```
 1. README.md - Penjelasan gambaran umum project
-2. P1M2_mustika_tri.ipynb - Notebook yang berisi pengolahan data dengan python
-3. P1M2_mustika_tri_inf.ipynb - Notebook berisi inference di mana proses prediksi mahasiswa yang datanya di input dilakukan.
-4. P1M2_mustika_tri_conseptual.txt - Text berisi jawaban conceptual
-5. dataset.csv - Berisi dataset yang digunakan
-6. list_cat_cols.txt - Berisi list category yang disimpan untuk proses inference
-7. list_num_cols.txt - Berisi list numeric yang disimpan untuk proses inference
-8. rf_ms_1.pkl - Berisi model mechine learning yang disimpan untuk proses inference
+2. notebook.ipynb - Notebook yang berisi pengolahan data dengan python
+3. inference.ipynb - Notebook berisi inference di mana proses prediksi mahasiswa yang datanya di input dilakukan.
+4. dataset.csv - Berisi dataset yang digunakan
 ```
 
 ## Problem Background
